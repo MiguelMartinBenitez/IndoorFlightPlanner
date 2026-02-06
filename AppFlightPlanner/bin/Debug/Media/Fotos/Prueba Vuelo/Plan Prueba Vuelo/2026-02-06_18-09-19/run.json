@@ -1,0 +1,50 @@
+{
+  "SpaceId": 1,
+  "SpaceName": "Prueba Vuelo",
+  "PlanId": 0,
+  "PlanName": "Plan Prueba Vuelo",
+  "StartedAt": "2026-02-06T18:09:19.0980825+01:00",
+  "FinishedAt": "2026-02-06T17:10:15.4756156Z",
+  "FolderPath": "C:\\Users\\migue\\OneDrive\\Desktop\\AppFlightPlanner\\AppFlightPlanner\\bin\\Debug\\Media\\Fotos\\Prueba Vuelo\\Plan Prueba Vuelo\\2026-02-06_18-09-19",
+  "Waypoints": [
+    {
+      "Index": 0,
+      "X": 11.44,
+      "Y": 6.52,
+      "Altura": 2.0,
+      "Actions": [
+        {
+          "Type": 0,
+          "Heading": 90.0,
+          "OutputPath": "foto_20260206_180948.jpg"
+        }
+      ]
+    },
+    {
+      "Index": 1,
+      "X": 5.38,
+      "Y": 6.54,
+      "Altura": 2.0,
+      "Actions": [
+        {
+          "Type": 1,
+          "Heading": null,
+          "OutputPath": null
+        }
+      ]
+    },
+    {
+      "Index": 2,
+      "X": 9.62,
+      "Y": 4.96,
+      "Altura": 3.0,
+      "Actions": [
+        {
+          "Type": 2,
+          "Heading": null,
+          "OutputPath": null
+        }
+      ]
+    }
+  ]
+}

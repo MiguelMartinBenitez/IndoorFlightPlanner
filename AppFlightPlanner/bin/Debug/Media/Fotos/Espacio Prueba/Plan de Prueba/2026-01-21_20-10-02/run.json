@@ -1,0 +1,68 @@
+{
+  "SpaceId": 2,
+  "SpaceName": "Espacio Prueba",
+  "PlanId": 0,
+  "PlanName": "Plan de Prueba",
+  "StartedAt": "2026-01-21T20:10:02.6258242+01:00",
+  "FinishedAt": "2026-01-21T19:16:39.4902908Z",
+  "FolderPath": "C:\\Users\\migue\\OneDrive\\Desktop\\AppFlightPlanner\\AppFlightPlanner\\bin\\Debug\\Media\\Fotos\\Espacio Prueba\\Plan de Prueba\\2026-01-21_20-10-02",
+  "Waypoints": [
+    {
+      "Index": 0,
+      "X": 9.0,
+      "Y": 8.34,
+      "Altura": 2.0,
+      "Actions": [
+        {
+          "Type": 0,
+          "Heading": 90.0,
+          "OutputPath": "foto_20260121_201546.jpg"
+        },
+        {
+          "Type": 0,
+          "Heading": null,
+          "OutputPath": "foto_20260121_201551.jpg"
+        }
+      ]
+    },
+    {
+      "Index": 1,
+      "X": 4.26,
+      "Y": 7.7,
+      "Altura": 4.0,
+      "Actions": [
+        {
+          "Type": 1,
+          "Heading": null,
+          "OutputPath": null
+        }
+      ]
+    },
+    {
+      "Index": 2,
+      "X": 4.22,
+      "Y": 4.28,
+      "Altura": 5.0,
+      "Actions": [
+        {
+          "Type": 2,
+          "Heading": null,
+          "OutputPath": null
+        }
+      ]
+    },
+    {
+      "Index": 3,
+      "X": 9.34,
+      "Y": 6.22,
+      "Altura": 2.0,
+      "Actions": [
+        {
+          "Type": 0,
+          "Heading": null,
+          "OutputPath": "foto_20260121_201634.jpg"
+        }
+      ]
+    }
+  ]
+}

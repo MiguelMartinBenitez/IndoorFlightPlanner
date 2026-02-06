@@ -1,0 +1,6 @@
+07/01/2026 20:39:41 - System.InvalidOperationException: No se puede llamar a Invoke o a BeginInvoke en un control hasta que se haya creado el identificador de ventana.
+   en System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   en System.Windows.Forms.Control.BeginInvoke(Delegate method, Object[] args)
+   en System.Windows.Forms.Control.BeginInvoke(Delegate method)
+   en AppFlightPlanner.VueloInterior1.<>c__DisplayClass87_0.<EjecutarSiguienteWaypoint>b__1(Object _) en C:\Users\migue\OneDrive\Desktop\AppFlightPlanner\AppFlightPlanner\VueloInterior1.cs:línea 1587
+   en csDronLink2.Dron._IrAlPuntoNED(Single north, Single east, Single down, Action`1 callback, Object param) en C:\Users\migue\OneDrive\Desktop\AppFlightPlanner\csDronLink2\Dron_movimiento.cs:línea 275

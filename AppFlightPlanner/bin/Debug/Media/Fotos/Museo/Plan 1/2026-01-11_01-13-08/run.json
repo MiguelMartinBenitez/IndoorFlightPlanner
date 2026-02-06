@@ -1,0 +1,42 @@
+{
+  "SpaceId": 1,
+  "SpaceName": "Museo",
+  "PlanId": 0,
+  "PlanName": "Plan 1",
+  "StartedAt": "2026-01-11T01:13:08.6570276+01:00",
+  "FinishedAt": "2026-01-11T00:13:58.1471159Z",
+  "FolderPath": "C:\\Users\\migue\\OneDrive\\Desktop\\AppFlightPlanner\\AppFlightPlanner\\bin\\Debug\\Media\\Fotos\\Museo\\Plan 1\\2026-01-11_01-13-08",
+  "Waypoints": [
+    {
+      "Index": 0,
+      "X": 6.44,
+      "Y": 6.72,
+      "Altura": 1.0,
+      "Actions": [
+        {
+          "Type": 0,
+          "Heading": null,
+          "OutputPath": "foto_20260111_011334.jpg"
+        },
+        {
+          "Type": 0,
+          "Heading": null,
+          "OutputPath": "foto_20260111_011339.jpg"
+        }
+      ]
+    },
+    {
+      "Index": 1,
+      "X": 10.74,
+      "Y": 6.7,
+      "Altura": 1.0,
+      "Actions": [
+        {
+          "Type": 0,
+          "Heading": null,
+          "OutputPath": "foto_20260111_011351.jpg"
+        }
+      ]
+    }
+  ]
+}
